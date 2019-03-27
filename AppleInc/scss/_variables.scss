@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+
+// Colors
+$black: #333333;
+$white: #FFFFFF;
+$red: #F1525C;
+$yellow: #FADA3A;
+$green: #4FC3C3;
+
+$fontRegular: 400;
+$fontLight: 300;
+
+$roboto: 'Roboto', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: $roboto;
+}
+
+h1 {
+    color: $red;
+}
